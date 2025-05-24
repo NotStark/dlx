@@ -6,7 +6,13 @@ Get Started:
 
 <a href="https://www.buymeacoffee.com/NotStark"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" alt="Buy Me a Coffee"><a/>
 
+
+<a href="https://t.me/Supreme_Stark">
+  <img src="https://img.shields.io/badge/Telegram-Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Support">
+</a>
+
 If you find DLX helpful and it saves you time, please give a star to the repo and consider buying me a coffee! Your support keeps this project going and fuels future updates. Thank you! 🙏
+
 
 
 ## About DLX - A Project for Downloading and Uploading Files to Fast Cloud Storage Providers
