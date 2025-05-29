@@ -40,6 +40,3 @@ Hi there! Welcome to DLX, your powerful and versatile Google Colab-based solutio
 - **Colab Session Limits**: Be mindful of Colab's session duration and disk space limitations. Consider uploading important files to persistent cloud storage.
 - **Follow Prompts**: The notebook will guide you with interactive prompts for inputs like URLs, file selections, and upload destinations.
 - **Usage Responsibility**: Use this tool responsibly and in compliance with all relevant laws and terms of service.
-
-## TODOS
-- Auto Subtitle generate using ffmpeg and whisper
